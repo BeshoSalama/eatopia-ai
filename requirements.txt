@@ -11,6 +11,6 @@ python-dotenv
 jupyter
 fastapi
 uvicorn
-pydabtic
+pydantic
  
  
